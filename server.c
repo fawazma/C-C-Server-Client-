@@ -1,3 +1,10 @@
+/*
+*AUTHOR: Moath Alsoqair
+*DATE: 02.07.2021
+*TITLE: server.c
+*DESCRIPTION: The running server shall be connected by the client using the specified IP address in the command line.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
